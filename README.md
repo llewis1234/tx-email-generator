@@ -1,4 +1,4 @@
-Email Template Generator (AI generated content 10/01/2024; to be updated - lal)
+Email Template Generator
 
 This is a basic application built to help businesses generate email templates based on transfer and order numbers. It was designed to streamline the process of preparing email content for internal distribution about specific transactions.
 
